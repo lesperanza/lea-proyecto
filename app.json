@@ -1,0 +1,13 @@
+{
+  "name": "lea-proyecto",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
